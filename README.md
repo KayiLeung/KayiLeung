@@ -10,7 +10,7 @@ A MERN stack group projet
 [MakeBoba](https://github.com/KayiLeung/MakeBoba)
 
 
- - ⚡ Fun fact: I am a Cat person but do not own a cat yet
+
  
 
 
@@ -29,5 +29,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Languages and Tools:
+Visual Studio CodeHTML5CSS3CSharpJavaScriptReactNode.jspythonflaskSQLpostgreSQLGitGitHubDockerTerminal
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayiLeung&show_icons=true&theme=onedark)
+
+
+ - ⚡ Fun fact: I
