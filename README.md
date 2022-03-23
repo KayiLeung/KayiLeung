@@ -1,8 +1,17 @@
 ### Hi there 👋 I'm Kayi and Welcome!
 
 ## Projects
+[MapStatesToPost](https://github.com/KayiLeung/mapStatesToPost)
+A MERN stack group projet
+
+[Giftsy](https://github.com/KayiLeung/Giftsy)
 
 
+[MakeBoba](https://github.com/KayiLeung/MakeBoba)
+
+
+ - ⚡ Fun fact: I am a Cat person but do not own a cat yet
+ 
 
 
 
@@ -22,5 +31,3 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayiLeung&show_icons=true&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayiLeung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
