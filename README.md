@@ -7,7 +7,7 @@ A MERN stack group projet
 [Giftsy](https://github.com/KayiLeung/Giftsy)
 
 
-[MakeBoba](https://github.com/KayiLeung/MakeBoba)
+[Aa Boba](https://github.com/KayiLeung/Aa_Boba)
 
 
 
